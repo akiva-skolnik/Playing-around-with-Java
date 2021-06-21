@@ -1,1 +1,1 @@
-# Playing-around-with-Java
+# for educational purposes
